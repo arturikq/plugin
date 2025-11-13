@@ -14,4 +14,4 @@
 ## Установка и запуск
 1. Клонируйте репозиторий:  
    ```zsh
-   git clone <>
+   git clone https://github.com/arturikq/plugin
